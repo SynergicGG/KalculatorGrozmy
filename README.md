@@ -1,2 +1,0 @@
-# KalculatorGrozmy
-Created with CodeSandbox
